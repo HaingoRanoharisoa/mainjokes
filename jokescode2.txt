@@ -1,2 +1,4 @@
 fichier vaovao jokeecode2. text initial
  1- first change
+2- second changes, save the link of the repository. i do not see any branch for now
+https://github.com/HaingoRanoharisoa/mainjokes.git
