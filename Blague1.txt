@@ -1,3 +1,7 @@
 Blague sur les Blondes
 
 1- creation du fhichier
+
+--allow-unrelated-histories
+
+2- ajout apres push to remote repository master
